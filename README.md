@@ -1,3 +1,6 @@
+# CNNs for Image Classification: A Comparative Study on CIFAR-10 Using
+ResNet-18, AlexNet, and SimpleCNN
+
 In this study, I have explored the performance of dif-
 ferent Convolutional Neural Network (CNN) architectures
 for image classification using the CIFAR-10 dataset, a well-
